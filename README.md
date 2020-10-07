@@ -14,6 +14,6 @@
 ### Follow me:
 [![instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=ead0e53)](https://www.instagram.com/nikita.papakin/?hl=ru)
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook&logoColor=ead0e53)](https://www.facebook.com/profile.php?id=100015671382755)
-[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=db1212)](https://t/me/papakin_nik)
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=db1212)](https://t.me/papakin_nik)
 
 
