@@ -1,7 +1,7 @@
 ![Heder](https://github.com/NeKit-Papakin/Nekit-Papakin/blob/main/assets/lampa_spiral_temnyj_fon_118457_2560x1024.jpg)
 
 
-## Student of the Admiral Makarov National University of Shipbuilding. I am a beginner software engineer
+##   Student of the Admiral Makarov National University of Shipbuilding. I am a beginner software engineer
 
 ### Languages and Tools:
 
