@@ -16,4 +16,4 @@
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook&logoColor=ead0e53)](https://www.facebook.com/profile.php?id=100015671382755)
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=db1212)](https://t.me/papakin_nik)
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nekit-Papakin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
